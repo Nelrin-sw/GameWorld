@@ -1,0 +1,130 @@
+Minecraft is a sandbox video game developed by Mojang Studios. Created by Markus "Notch" Persson in the Java 
+programming language and released as a public alpha for personal computers in 2009, the game was officially released 
+in November 2011, with Jens Bergensten taking over development around then. Minecraft has since been ported to various
+platforms and become the best-selling video game of all time, with 200 million copies sold across all platforms and 
+126 million monthly active users as of 2020
+
+
+------------------------------------------------------------------------------
+
+
+MINECRAFT HOSTILE MOBS
+Hostile mobs in Minecraft are dangerous and aggressive and will attack you within a certain range, usually 
+16 blocks, without any obstruction. However, some mobs are capable of detecting you from 100 blocks away. Flying 
+mobs like a Minecraft phantom, will spawn above and attempt to swoop down and attack you. A boss mob is a special 
+type of hostile, that has a larger detection range and more health, and includes the ender dragon and the Minecraft 
+wither.
+
+Evoker
+Vindicator
+Pillager
+Ravager
+Vex
+Chicken Jockey
+Endermite
+Guardian
+Elder Guardian
+Shulker
+Skeleton Horseman
+Husk
+Stray
+Phantom
+Blaze
+Creeper
+Ghast
+Magma Cube
+Silverfish
+Skeleton
+Slime
+Spider Jockey
+Zombie
+Zombie Villager
+Drowned
+Wither Skeleton
+Witch
+Hoglin
+Piglin
+
+
+------------------------------------------------------------------------------
+
+Some of the Minecraft monsters in this category behave slightly differently, with spiders and cave spiders becoming 
+hostile if the light level falls below ten.
+
+Spider
+Cave Spider
+Enderman
+Zombie Pigman
+
+
+------------------------------------------------------------------------------
+
+MINECRAFT NEUTRAL MOBS
+Neutral mobs in Minecraft will attack you if provoked, which may be useful if you’re after item drops or XP. Some neutral mobs such as 
+wolves will attack other mobs like rabbits or sheep, and llamas will be aggressive towards untamed wolves. Minecraft bees are the latest 
+addition and can be found in flower forests and plains, or beehives can be constructed using wood planks and honeycomb.
+
+Dolphin
+Polar bear
+Trader llama
+Llama
+Panda
+Wolf
+Bee
+Iron golem
+
+------------------------------------------------------------------------------
+
+TAMABLE PASSIVE MOBS
+
+Donkey
+Horse
+Cat
+Parrot
+Mule
+Skeleton horse
+
+------------------------------------------------------------------------------
+
+MINECRAFT PASSIVE MOBS
+Minecraft passive mobs will not attack you and will flee when attacked. They have the ability to breed, so you’ll see baby animals in the 
+same area. Most passive mobs can be tamed, if they’re not already, such as horses in Minecraft. Then the are the inhabitants of Minecraft 
+villages, like traders and villagers. Other farmyard friends can provide resources, including wool from sheep or milk from cows.
+
+Sheep
+Cow
+Fox
+Bat
+Chicken
+Cod
+Ocelot
+Pig
+Rabbit
+Salmon
+Mooshroom
+Squid
+Tropical fish
+Turtle
+Villager
+Wandering trader
+Pufferfish
+
+------------------------------------------------------------------------------
+
+Minecraft mobs are the living entities in Minecraft – short for mobile, these sometimes adorable, sometimes aggressive creatures can be found roaming the many biomes of the blocky universe. They will interact and respond to you, other players, and other mobs, whether that’s a creeper knocking at your door, or a pig in the pen in your back garden.
+
+------------------------------------------------------------------------------
+
+Minecraft mobs are susceptible to the same physics and environmental changes that affect players, such as catching fire or drowning. They can be attacked and killed with weapons, and when killed drop resources and experience points, with hostile mobs dropping rarer items on occasion.
+
+------------------------------------------------------------------------------
+
+In Creative mode, Minecraft mobs will never attack you, but can be divided into three behavioural categories in Survival and Hardcore modes, which include passive, neutral, and hostile. Utility mobs iron golem and snow golem, can be crafted to assist you against hostile mobs. Trusting mobs can’t be tamed, but have a special behaviour when interacted with and include dolphins, ocelot and even the adorable Minecraft fox. Here’s a list of all the mobs and monsters that can be found wandering the vast Minecraft landscape.
+
+------------------------------------------------------------------------------
+
+If you want to be better equipped when dealing with these villainous mobs, our Minecraft shield guide provides the perfect defence, and when you’ve harvested your phantom membranes and other mob ingredients, you’ll be able to brew all kinds of potions in Minecraft. If there’s not enough Minecraft mobs here for you, then you can add more using Minecraft mods or drastically alter their look using Minecraft texture packs.
+
+------------------------------------------------------------------------------
+
+If you want to know what Minecraft mobs you’re up against, we don’t blame you. If you stumble upon a spider on your travels, or a phantom swoops into your path, it’s better to know they can’t be tamed than to find out the hard way.
