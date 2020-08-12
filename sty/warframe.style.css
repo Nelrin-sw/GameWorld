@@ -1,0 +1,12 @@
+body {
+    background-image: url(http://blog.hostbaby.com/wp-content/uploads/2014/03/PaintSwatches_1920x1234.jpg);
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+
+button {
+    font-size: x-large;
+    text-align: left;
+    background-color: lime;
+}
